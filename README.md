@@ -27,7 +27,7 @@ Monitoring: Use network monitoring tools like Wireshark to confirm DNS queries a
 
 1. Clone the repository
 2. Navigate to the script's directory
-3. Run `python3 dns_rotator.py`
+3. Run `python3 DNS_Changer_Eye.py`
 
 ## List of DNS Servers
 
