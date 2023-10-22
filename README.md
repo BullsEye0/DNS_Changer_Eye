@@ -5,6 +5,8 @@ This Python script aims to enhance your online privacy and security by automatic
 ## Why is this Important?
 Understanding and tweaking your DNS settings is crucial in the realm of ethical hacking. For a detailed guide on why DNS settings are so important, check out this comprehensive article on [HackingPassion.com](https://hackingpassion.com/why-your-dns-settings-could-make-or-break-your-hacking-career/).
 
+![DNS Changer Eye](logo-dns-changer-eye.png)
+
 ## Features
 
 - Automatically rotates DNS settings
