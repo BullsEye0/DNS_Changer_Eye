@@ -27,7 +27,7 @@ Understanding and tweaking your DNS settings is crucial in the realm of ethical 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/BullsEye0/DNS-Changer-Eye.git
+git clone https://github.com/BullsEye0/DNS_Changer_Eye.git
 cd DNS-Changer-Eye
 ```
 
@@ -35,11 +35,6 @@ cd DNS-Changer-Eye
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies (if required):**
-```bash
-pip3 install -r requirements.txt
 ```
 
 ****
