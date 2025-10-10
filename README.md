@@ -28,7 +28,7 @@ Understanding and tweaking your DNS settings is crucial in the realm of ethical 
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/BullsEye0/DNS_Changer_Eye.git
-cd DNS-Changer-Eye
+cd DNS_Changer_Eye
 ```
 
 2. **Create a virtual environment (recommended):**
