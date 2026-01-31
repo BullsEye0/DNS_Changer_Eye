@@ -11,7 +11,7 @@
 #   ███    ██▄   ███    █▄          Facebook: https://www.facebook.com/ethical.hack.group
 #   ███    ███   ███    ███         Twitter: https://twitter.com/bulls__eye
 # ▄█████████▀    ██████████         LBRY: https://lbry.tv/$/invite/@hackingpassion:9
-#                                   Patreon: https://www.patreon.com/jolandadekoff
+# 
 #          Bulls Eye..!
 # ===== #
 
